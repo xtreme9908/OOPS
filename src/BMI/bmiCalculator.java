@@ -123,6 +123,7 @@ public class bmiCalculator extends JFrame implements Check {
 				
 			}
 		});
+
 		btnNewButton.setBounds(71, 228, 89, 23);
 		contentPane.add(btnNewButton);
 		
@@ -232,3 +233,5 @@ public class bmiCalculator extends JFrame implements Check {
 		
 	}
 }
+
+# hacktober fest commit
